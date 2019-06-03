@@ -1,0 +1,28 @@
+pandoc -s text_06.md -c css/styles.css -o text_06.html
+
+
+
+
+
+
+Texte étiré verticalement : 
+
+	-ms-transform: scaleY(2) translateX(4px);
+	-webkit-transform: scaleY(2) translateX(4px);
+	transform: scaleY(2) translateX(4px);
+
+Texte étiré horizontalement : 
+
+	-ms-transform: scaleY(0.5) translateY(4px);
+	-webkit-transform: scaleY(0.5) translateY(4px);
+	transform: scaleY(0.5) translateY(4px);
+
+
+.habillage p {  
+
+
+}
+
+
+
+p.boite {}
