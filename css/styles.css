@@ -14,7 +14,7 @@
 	src: url('../font/comici.ttf');
 }
 
-em, i p {
+em, i {
 	font-family: "comici";
 
 }
