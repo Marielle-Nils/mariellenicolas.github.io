@@ -1,5 +1,5 @@
 ---
-title: MATHIAS, CHRISTOPHE & TOUS LES AUTRES AAAAAAAAA
+title: MATHIAS, CHRISTOPHE & TOUS LES AUTRES
 ...
 
 <div class="intro">
