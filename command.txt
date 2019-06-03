@@ -3,6 +3,11 @@ pandoc -s text_06.md -c css/styles.css -o text_06.html
 pandoc -s text_06.md -c css/styles.css -o index.html
 
 
+Pour les italiques réflexion
+<span class=« blabla »> truc </span>
+
+Dans le css : .blabla
+
 
 
 

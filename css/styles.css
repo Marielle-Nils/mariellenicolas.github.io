@@ -3,11 +3,21 @@
 	src: url('../font/Eldorado-R.ttf');
 }
 
+
 @font-face {
 	font-family: "comicr";
 	src: url('../font/comic.ttf');
 }
 
+@font-face {
+	font-family: "comici";
+	src: url('../font/comici.ttf');
+}
+
+em, i p {
+	font-family: "comici";
+
+}
 
 body {
 	font-family: "Eldorado-R";
