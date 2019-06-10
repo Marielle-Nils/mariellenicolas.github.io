@@ -14,8 +14,9 @@
 	src: url('../font/comici.ttf');
 }
 
-em, i {
+em, i p {
 	font-family: "comici";
+	font-size: 16px;
 
 }
 
@@ -64,7 +65,7 @@ h1 {
 
 }
 
-h1.title {
+h1.title { 
 	font-family: "comicr";
 	font-size: 32px;
 	text-align: center;
