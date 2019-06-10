@@ -51,7 +51,7 @@ img {
 p {
 	color: #0000ff;
 	font-size: 20px;
-	margin: 20px 200px 100px 200px ;
+	margin: 20px 200px 50px 200px ;
 
 
 }
@@ -89,6 +89,7 @@ h1.title {
 }
 
 .intro p {
+	font-family: "comicr";
 	margin: 0 0 20px 0;
 	color:#ff0000;
 	transition: all 0.8s ease-out;
