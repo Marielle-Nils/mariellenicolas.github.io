@@ -55,3 +55,34 @@ Et pourtant. C’est avec des captures d’écran de paysages de cette île trou
 </div>
 
 
+
+
+
+<h4><br/>Bibliographie: 
+
+<br/>**Sylvie Vilatte,**
+<br/>*L’insularité dans la pensée grecque,* 
+<br/>Paris,  Les Belles Lettres,  Université de Besançon, 1991.
+
+<br/>**Annick Lantenois,**
+<br/>*Le Vertige du Funambule*, Paris, Éditions B42, 2010.
+
+<br/>**Michel Pastoureau,** 
+<br/>«Une écriture en images: les armoiries parlantes», 
+<br/>*Extrême-Orient Extrême-Occident*, mis en ligne le 1er octobre 2011, http://journals.openedition.org/extremeorient/110.
+
+<br/>**Vanina Pinter,**
+<br/>«Format 1: Oracular Vernacular / MS» 
+<br/>sur le site Tombolo, http://www.t-o-m-b-o-l-o.eu/meta/format-1-oracular-vernacular-ms/ 
+
+<br/>**Vanina Pinter,**
+<br/>*Pourquoi y a-t-il si peu eu de graphistes autrices ? Graphisme et féminisme*, 
+<br/>lisible sur le site personnel de l'auteure : http://regarderparlafenetre.fr/node/131
+
+<br/>**Pierre Bourdieu,**
+<br/>*La distinction, Critique sociale du jugement,*
+Paris, Éditions de Minuit, 1979 
+
+</h4>
+
+
